@@ -4,7 +4,6 @@
     <test name="PenTest">
         <classes>
             <class name="Package.PenTest"/>
-
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
